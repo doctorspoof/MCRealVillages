@@ -1,0 +1,12 @@
+{
+	"homepage": "https://github.com/doctorspoof/MCRealVillages/wiki",
+	"<mcversion>": 
+	{
+		"<modversion>": "Initial Version"
+	},
+	"promos": 
+	{
+		"<mcversion>-latest": "1.0",
+		"<mcversion>-recommended": "1.0"
+	}
+}
