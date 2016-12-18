@@ -1,0 +1,16 @@
+[
+{
+  "modid": "realvillages",
+  "name": "Real Villages",
+  "description": "More interesting villages",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["doctorspoof"],
+  "credits": "ME",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
